@@ -21,7 +21,7 @@ Risk Model Approach
 Features of the Project
 ---
     Data Preprocessing: Includes feature engineering, handling missing values, and standardizing data.
-    Model Training: Implements machine learning algorithms to classify borrowers as "good" or "bad."
+    Model Training: Uses Logistic Regression Classifier to classify borrowers as "good" or "bad."
     Performance Metrics: Assesses model accuracy, precision, recall, and profitability.
     Export Predictions: Saves model predictions to .csv or .xlsx formats.
 
@@ -30,3 +30,9 @@ Tools and Libraries
     pandas: Data manipulation and processing.
     scikit-learn: Model training and evaluation.
     openpyxl: Exporting predictions in Excel format.
+
+Output
+---
+    Model Accuracy: 83%
+    To maximize profits, maintain the probability of good loans at 89.43%; 
+    to expand the market, maintain the probability of good loans at 86.27%.
