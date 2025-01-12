@@ -11,7 +11,7 @@ Business Context
     There are 30 variables including bankruptcy indicator, finance inquires over 24 months, number trade lines 30 or 60 days over 24 months, 
     time since last inquiry and customer ID etc with 3000 observations in the dataset.
 
-Risk Model Approach
+Dataset
 ---
     The dataset includes labeled historical data on credit outcomes.
     Data split:
